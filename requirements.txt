@@ -7,7 +7,7 @@ pandas>=2.2.2            # Powerful data analysis library (Released: 2025-03-12)
 # Excel file reading engines
 openpyxl>=3.1.4          # Read/write .xlsx/.xlsm files (Released: 2023-10-18)
 xlrd>=2.0.1              # Read legacy .xls files (Released: 2020-12-10)
-pyxlsb>=1.0.10           # Read binary Excel .xlsb files (Released: 2022-05-13)
+pyxlsb>=1.0.10           #  Read binary Excel .xlsb files (Released: 2022-05-13)
 
 # String matching and fuzzy logic
 fuzzywuzzy>=0.18.0           # Fuzzy string matching (Released: 2020-11-10)
